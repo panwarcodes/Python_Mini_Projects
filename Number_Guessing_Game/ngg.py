@@ -2,6 +2,7 @@
 import random
 import time
 
+# Picking random number for the game
 random_num = random.randint(1, 30)
 print("Welcome to Number Guessing Game!")
 print("Game loading...")

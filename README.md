@@ -4,6 +4,8 @@ A collection of small Python projects built to strengthen core programming logic
 
 Each project focuses on clean code, basic error free implementation and readability.
 
+I merged all these mini projects to give them better structure and avoid cluttering the repositories with mini projects.
+
 ---
 
 ## 📁 Project List
