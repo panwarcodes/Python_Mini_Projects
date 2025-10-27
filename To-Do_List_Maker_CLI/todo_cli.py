@@ -18,6 +18,7 @@ def add_task():
     try:
         task = str(input("Enter the task: "))
         list_of_tasks.append(task)
+        # Task appending in tasks.net file as well
         with open("tasks.txt", 'w') as tasks:
             for item in list_of_tasks:
                 tasks.write(item + '\n')
@@ -34,6 +35,7 @@ def remove_task():
     try:
         task = int(input("Enter task's index number: "))
         list_of_tasks.pop(task)
+        # Task removing in tasks.net file as well
         with open("tasks.txt", 'w') as tasks:
             for item in list_of_tasks:
                 tasks.write(item + '\n')
