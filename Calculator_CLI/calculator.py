@@ -1,4 +1,4 @@
-# Simple calculator
+# Simple calculator by @panwarcodes/github
 import sys
 
 print("""

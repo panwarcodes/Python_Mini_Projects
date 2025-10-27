@@ -1,0 +1,4 @@
+## Number Guessing Game 🎯
+A fun command-line game where you guess a number between 1–30 within 10 attempts.
+- Uses `random` and `time` modules.
+- Includes error handling and attempt tracking.
