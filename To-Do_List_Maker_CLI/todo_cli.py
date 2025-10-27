@@ -4,11 +4,23 @@ import time
 
 list_of_tasks = []
 
+# Check if tasks.txt exists if not create one
+# If exists then read data into list
+try:
+    with open("tasks.txt", "r") as tasks:
+        list_of_tasks = tasks.read().split('\n')
+except FileNotFoundError:
+    with open("tasks.txt", "w") as tasks:
+        pass
+
 # Neccesary functions
 def add_task():
     try:
         task = str(input("Enter the task: "))
         list_of_tasks.append(task)
+        with open("tasks.txt", 'w') as tasks:
+            for item in list_of_tasks:
+                tasks.write(item + '\n')
         print("Task added!")
     except ValueError:
         print("Only strings are allowed!")
@@ -22,6 +34,9 @@ def remove_task():
     try:
         task = int(input("Enter task's index number: "))
         list_of_tasks.pop(task)
+        with open("tasks.txt", 'w') as tasks:
+            for item in list_of_tasks:
+                tasks.write(item + '\n')
         print("Task removed!")
     except ValueError:
         print("Only integers are allowed!")
