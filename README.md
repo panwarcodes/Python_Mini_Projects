@@ -34,7 +34,7 @@ These are the most refined and feature-rich mini projects — worth checking out
 
 ## ⚙️ How to Run
 ```bash
-git clone https://github.com/yourusername/Python_Mini_Projects.git
+git clone https://github.com/panwarcodes/Python_Mini_Projects.git
 cd Python_Mini_Projects
 cd Calculator
 python calculator.py
