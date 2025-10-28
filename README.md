@@ -17,7 +17,7 @@ All projects are merged here to maintain structure and avoid repo clutter.
 | 4 | **To-Do List (CLI)** | Add, remove, and view tasks via menu. | File Handling, Lists |
 | 5 | **Quiz App** | True/False quiz with score tracking. | Dictionaries, Loops |
 | 6 | **Temperature Converter** | Converts between Celsius, Fahrenheit, Kelvin. | Functions, Conditionals |
-| 7 | **Currency Converter** | Converts currency using API or fixed rates. | APIs, Requests, Exceptions |
+| 7 | **Currency Converter** | Converts currency using API. | APIs, Requests, Exceptions |
 | 8 | **Alarm Clock** | Set and trigger alarms via system time. | Datetime, Loops |
 | 9 | **File Organizer** | Sorts files by type automatically. | OS Module, Automation |
 | 10 | **Rock-Paper-Scissors** | Classic game vs. computer. | Loops, Random, Conditionals |
