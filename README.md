@@ -7,7 +7,15 @@ All projects are merged here to maintain structure and avoid repo clutter.
 
 ---
 
-## Project List
+## ⭐ Must-Check Projects
+These are the most refined and feature-rich mini projects — worth checking out first:
+- **Number Guessing Game** – Classic random number logic with user interaction loop.
+- **To-Do List (CLI)** – Fully functional CLI task manager with file persistence.
+- **Multi-Currency Converter** – Live currency exchange using real API data.
+
+---
+
+## 📁 Project List
 
 | # | Project Name | Description | Concepts Covered |
 |---|---------------|--------------|------------------|
