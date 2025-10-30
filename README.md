@@ -9,9 +9,10 @@ All projects are merged here to maintain structure and avoid repo clutter.
 
 ## ⭐ Must-Check Projects
 These are the most refined and feature-rich mini projects — worth checking out first:
-- **Number Guessing Game** – Classic random number logic with user interaction loop.
+- **Multi-Currency Converter** – Live currency exchange using real API data (Including crypto currencies).
+- **File Organizer** – Automatically sorts files into categorized folders based on their type (Images, Videos, Documents, etc.).
 - **To-Do List (CLI)** – Fully functional CLI task manager with file persistence.
-- **Multi-Currency Converter** – Live currency exchange using real API data.
+- **Number Guessing Game** – Classic random number logic with user interaction loop.
 
 ---
 
@@ -27,7 +28,7 @@ These are the most refined and feature-rich mini projects — worth checking out
 | 6 | **Temperature Converter** | Converts between Celsius, Fahrenheit, Kelvin. | Functions, Conditionals |
 | 7 | **Multi-Currency Converter** | Converts currency using API. Supports both fiat currencies and cryptocurrencies (e.g., USD, EUR, BTC, ETH).  | APIs, Requests, Exceptions |
 | 8 | **Alarm Clock** | Set and trigger alarms via system time. | Datetime, Loops |
-| 9 | **File Organizer** | Sorts files by type automatically. | OS Module, Automation |
+| 9 | **File Organizer** | Sorts files by type and make separate folder for their types. | OS Module, Automation |
 | 10 | **Rock-Paper-Scissors** | Classic game vs. computer. | Loops, Random, Conditionals |
 
 ---
