@@ -18,7 +18,7 @@ def add_task():
     try:
         task = str(input("Enter the task: "))
         list_of_tasks.append(task)
-        # Task appending in tasks.net file as well
+        # Task appending in tasks.txt file as well
         with open("tasks.txt", 'w') as tasks:
             for item in list_of_tasks:
                 tasks.write(item + '\n')
