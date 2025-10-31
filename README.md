@@ -29,7 +29,7 @@ These are the most refined and feature-rich mini projects — worth checking out
 | 7 | **Multi-Currency Converter** | Converts currency using API. Supports both fiat currencies and cryptocurrencies (e.g., USD, EUR, BTC, ETH).  | APIs, Requests, Exceptions |
 | 8 | **Alarm Clock** | Set and trigger alarms via system time. | Datetime, Loops |
 | 9 | **File Organizer** | Sorts files by type and make separate folder for their types. | OS Module, Automation |
-| 10 | **Rock-Paper-Scissors** | Classic game vs. computer. | Loops, Random, Conditionals |
+| 10 | **Rock-Paper-Scissor** | Classic game vs. computer. | Loops, Random, Conditionals |
 
 ---
 
