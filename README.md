@@ -1,6 +1,6 @@
 # 🐍 Python Mini Projects
 
-A collection of small Python projects built to strengthen core logic, problem-solving, and hands-on experience with Python fundamentals.
+As a begineer I made these 10 small Python projects to strengthen core logic, problem-solving, and hands-on experience with Python fundamentals.
 
 Each project emphasizes clean, readable, and error-free code.  
 All projects are merged here to maintain structure and avoid repo clutter.
@@ -39,3 +39,5 @@ git clone https://github.com/panwarcodes/Python_Mini_Projects.git
 cd Python_Mini_Projects
 cd Calculator
 python calculator.py
+```
+Thank you!
